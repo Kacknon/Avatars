@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>A:/Google Drive/Code/C#/VS Solutions/Avatars/Avatars/Content/Fonts/InterfaceFont.spritefont</File>
+    <File>A:/Google Drive/Code/C#/VS Solutions/Avatars/Avatars/Content/GameScreens/menuscreen.png</File>
+    <File>A:/Google Drive/Code/C#/VS Solutions/Avatars/Avatars/Content/GameScreens/titlescreen.png</File>
+  </SourceFiles>
+</SourceFileCollection>
